@@ -54,3 +54,21 @@ This file contains the workflow configuration for the CI/CD pipeline.
 ### `main.py`
 
 This file contains the FastAPI application code.
+
+**Troubleshooting**
+---------------
+
+* **Check the GitHub Actions workflow logs** for deployment errors
+* **Verify AWS credentials and Lambda function configuration**
+
+**License**
+-------
+
+This project is licensed under the MIT License.
+
+**Additional Resources**
+-------------------------
+
+* [FastAPI Documentation](https://fastapi.tiangolo.com/)
+* [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+* [GitHub Actions Documentation](https://docs.github.com/en/actions)
